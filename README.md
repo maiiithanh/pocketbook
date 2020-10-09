@@ -1,2 +1,2 @@
 # pocketbook
-Website made as a submission for Brown University's Hack@Home
+Website that serves as a virtual backpack
